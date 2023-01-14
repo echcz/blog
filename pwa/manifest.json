@@ -1,0 +1,23 @@
+{
+  "name": "Echcz's Blog",
+  "short_name": "Echcz Blog",
+  "description": "关于程序与设计，探索与创造的个人博客",
+  "icons": [{
+    "src": "icons/64.ico",
+    "sizes": "64x64",
+    "type": "image/x-icon"
+  }, {
+    "src": "icons/128.ico",
+    "sizes": "128x128",
+    "type": "image/x-icon"
+  }, {
+    "src": "icons/256.ico",
+    "sizes": "256x256",
+    "type": "image/x-icon"
+  }],
+  "background_color": "#fff",
+  "theme_color": "#000",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait"
+}

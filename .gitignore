@@ -1,0 +1,12 @@
+_site
+.jekyll-cache
+node_modules
+package-lock.json
+npm-debug.log
+.DS_Store
+*/.DS_Store
+*/*/.DS_Store
+*.sh
+.vscode
+.idea
+*.iml
